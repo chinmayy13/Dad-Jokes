@@ -1,3 +1,3 @@
 Live Server 🌐
 
-View Live on Netlify [https://dad-jokes12.netlify.app/]
+View Live on Netlify [https://kruger-jokes121.netlify.app]
